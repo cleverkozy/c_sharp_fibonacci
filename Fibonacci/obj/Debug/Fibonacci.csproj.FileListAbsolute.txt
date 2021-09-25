@@ -1,0 +1,6 @@
+C:\Users\Valerii Kozurak\Documents\CS_Projects\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\Valerii Kozurak\Documents\CS_Projects\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\Valerii Kozurak\Documents\CS_Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+C:\Users\Valerii Kozurak\Documents\CS_Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Valerii Kozurak\Documents\CS_Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\Valerii Kozurak\Documents\CS_Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
